@@ -1,7 +1,7 @@
 # Sentiment-Analysis-for-Predicting-Stock-Market-Movements-using-News-Headlines
 Sentiment Analysis for Predicting Stock Market Movements using News Headlines
 
-![download](https://www.istockphoto.com/it/signature/foto/scatto-digitalmente-migliorato-di-un-grafico-che-mostra-gli-alti-e-bassi-delle-azioni-gm1322201350-408238044.png)
+![download](https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1058454392-e1643158652665.jpg?w=1390&crop=1)
 
 ### Description
 Sentiment analysis can be used to analyze news headlines in order to forecast the movement of the
