@@ -25,5 +25,4 @@ Noise has been removed from each headline also the stopwords, reducing the remai
 to the basic form (stemming and lemmatization). We have apply varius classifiers, such as
 random forest,XGBoost,and more advanced models like Convolutional Neural Network, Long
 Short-Term Memory(LSTM) and pre-trained models like BERT and RoBERTa. For more details
-and information about the dataset, please refer to Kaggle’s page (https://www.kaggle.com/
-datasets/aaron7sun/stocknews)
+and information about the dataset, please refer to Kaggle’s page (https://www.kaggle.com/datasets/aaron7sun/stocknews)
